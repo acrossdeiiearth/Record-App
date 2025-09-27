@@ -54,8 +54,6 @@ The **Cycling App** section provides statistics related to cycling achievements:
 **Screenshot**  
 <img width="598" height="494" alt="Cycling App" src="https://github.com/user-attachments/assets/6b2b9e18-256f-40ed-b52e-238e4c19a437" />
 
-
-
 ---
 
 ## ⚙️ Tech Stack  
@@ -71,6 +69,12 @@ The **Cycling App** section provides statistics related to cycling achievements:
 2. Connect a device or start an emulator.  
 3. Build and run the application.  
 
+---
 
+## 🎥 Demo Video  
+
+🔗 [Watch the Demo Here](https://github.com/user-attachments/assets/8ccc834d-e0ec-41ec-9956-91c16c8d233f)  
+
+---
 
 ✨ This project showcases the integration of **Running** and **Cycling** trackers into one simple, user-friendly Android app.  
